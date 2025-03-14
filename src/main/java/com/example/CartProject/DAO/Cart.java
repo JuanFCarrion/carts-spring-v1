@@ -7,8 +7,6 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.UUID;
 
-import static java.util.UUID.randomUUID;
-
 public class Cart {
 
 
